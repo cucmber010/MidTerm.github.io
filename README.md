@@ -1,2 +1,2 @@
-# MidTerm.githu.io
+# MidTerm.github.io
 Landing Page
