@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@300&display=swap');
+
+
+#s1{
+  background-image: url('https://wallpapercave.com/wp/wp2864012.gif') ;
+  background-clip: border-box;
+  padding-bottom: 150px;
+}
+
+.navbar{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 15pt;
+}
+.banner h1{
+  padding-top: 150px;
+  color: #8ac7f7;
+  font-family: 'Michroma', sans-serif;
+  font-size: 40pt;
+}
+
+.banner h1 small{
+  background: -webkit-linear-gradient(-45deg, white, #8ac7f7 );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 20pt;
+}
+
+.banner a{
+  font-family: 'Jura', sans-serif;
+  font-size: 15pt;
+}
+
+#s2 {
+  background: rgba(76, 70, 70, .27);
+}
+
+#carouselExampleControls{
+  padding-top: 60px;
+  padding-bottom: 60px;
+  width: 58%;
+  float: left;
+}
+
+.container {
+  overflow: hidden;
+}
+
+.blockText{
+  color: black;
+  font-family: 'Chakra Petch', sans-serif;
+  padding-top: 30px;
+  padding-left: 90px;
+  padding-right: 10px;
+  float: left;
+  width: 42%;
+}
+
+.text{
+  color: black;
+  font-size: 13pt;
+  margin-top: 40px;
+  font-family: 'Chakra Petch', sans-serif;
+
+}
+
+.section2{
+  padding-top: 20px;
+  display: flex;
+}
+
+.section2 img{
+  width: 340px;
+  border-radius: 250px;
+  padding: 2px;
+  border: solid white 2px;
+
+}
+
+.name{
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 19pt;
+  justify-content: center;
+}
+
+.section2 p{
+  color: white;
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+#s3{
+  margin: 0;
+  background-image: url(https://i.pinimg.com/originals/2a/75/57/2a7557cfb74250da2a48ce83dc7919a2.jpg);
+  padding-bottom: 30px;
+}
+
+#s3 h2{
+  padding-top: 20px;
+  color: white;
+  text-align: center;
+  font-family: 'Spartan', sans-serif;
+}
+
+#s4{
+  padding-top: 20px;
+  padding-bottom: 40px;
+  background: rgba(76, 70, 70, .27);
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+.copyright{
+  background-color: black;
+  font-family:'Spartan', sans-serif;
+  color: white;
+  padding: 15px;
+	width: 100%;
+	bottom: 0;
+	text-align: center;
+}
